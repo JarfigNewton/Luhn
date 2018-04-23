@@ -17,8 +17,12 @@ You can install node.js from here:
 https://nodejs.org/en/download/
 
 You can install Jasmine using npm, locally in the project and globally to use the CLI tool. From the terminal:
-`npm install jasmine`
-`npm install -g jasmine`
+```
+npm install jasmine
+```
+```
+npm install -g jasmine
+```
 
 ## Software requirements
 
@@ -28,4 +32,6 @@ You can install Jasmine using npm, locally in the project and globally to use th
 ## Running the Tests
 
 From the working directory, run the following command in the terminal:
-`jasmine`
+```
+jasmine
+```
